@@ -1,0 +1,14 @@
+{
+  "name": "citartech-api",
+  "main": "server.js",
+  "scripts": {
+    "serve": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cors": "^2.8.5",
+    "csvtojson": "^2.0.8",
+    "exceljs": "^1.10.0",
+    "express": "^4.16.4"
+  }
+}
